@@ -141,3 +141,16 @@
 ||tsyndicate.com^
 ||cdn.ggsfq.xyz^
 ||www.000111.best^
+||pangolin-sdk-toutiao.com^
+||zijieapi.com^$app=com.dragon.read
+||frontier-toutiao.snssdk.com^$app=com.dragon.read
+||pangolin-sdk-toutiao-b.com^
+||ads5-normal-lf.zijieapi.com^$app=com.dragon.read
+||pglstatp-toutiao.com^
+||5hz.org^
+||topnewsfeeds.net^
+||nbryb.com^
+||superbdolly.com^
+||salutationcheerlessdemote.com^
+||buildingdoodlesquare.com^
+||colonistnobilityheroic.com^
