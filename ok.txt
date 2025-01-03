@@ -119,3 +119,4 @@
 @@||dow.hongxing.one^
 @@||github.com^
 @@||githubusercontent.com^
+@@||click.simba.taobao.com^
